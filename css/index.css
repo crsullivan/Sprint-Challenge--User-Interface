@@ -110,7 +110,7 @@ p {
     border-bottom: 1px dashed black;
     margin-bottom:50px;
     padding:40px;
-    margin-top:40px
+    margin-top:20px
     
     
 }
@@ -175,21 +175,27 @@ footer {
    margin-right:25%;
     width: 50%;
     background: black;
+    
+    
 }
 
 footer nav {
-    width: 60%;
+    
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 20px 2%;
+    justify-content: flex-start;
+    
     font-size: 14px;
+    height:auto;
+    margin-left:-30px;
+    
 }
 
 footer nav a {
     color: white;
     text-decoration: none;
     background:black;y
+    
 }
 .aboutTop{
     margin-left:25%;
@@ -211,4 +217,11 @@ footer nav a {
     margin-right:25%;
     padding:20px;
     border-bottom: 2px dashed lightgrey;
+}
+.aboutBot{
+    margin-left:25%;
+    margin-right:25%;
+    
+    padding:30px;
+
 }

@@ -32,11 +32,11 @@ footer, header, hgroup, menu, nav, section {
 header{
     display:flex;
     justify-content:center;
-    justify-content:space-around;
+    
     margin-top:40px;
 }
 nav{
-    margin:20px;
+    margin:20px; 
 }
 a{
 	color:black;
@@ -46,6 +46,17 @@ a{
 }
 
 
+.jumbo{
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   
+}
+.container{
+    display:flex;
+    justify-content:center
+}
 body {
 	line-height: 1;
 }

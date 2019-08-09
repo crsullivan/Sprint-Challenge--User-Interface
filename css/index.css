@@ -146,7 +146,7 @@ p {
 .middle-content .boxes .box {
    width:100px;
     height: 100px;
-    background: black;
+   background:black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -154,6 +154,7 @@ p {
     justify-content: center;
 }
 
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -183,7 +184,6 @@ footer nav {
     
     display: flex;
     justify-content: space-between;
-    justify-content: flex-start;
     
     font-size: 14px;
     height:auto;
@@ -225,3 +225,4 @@ footer nav a {
     padding:30px;
 
 }
+

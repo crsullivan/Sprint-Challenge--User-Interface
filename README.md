@@ -104,3 +104,25 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+**QUESTION ANSWERS**
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+I would say that semantic HTML is how to format your HTML in a way that makes is understandable and clear to others developers and not just yourself
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display:block takes up quite a bit of room, I believe the full width that is available to it whereas display:inline only uses as much as it needs. furthermore, as a result of this block creates "block level elements" which can act as a line break, similar to <div> or <h1> whereas line does not do this, and can be used more like <span>
+
+3. What are the 4 areas of the box model?
+
+margin-border-padding-content
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+X axis
+
+5. Explain why git is valuable to a team of developers.
+
+Git is like google docs for developers, multiple people can conribute and track changes simultaneously.
